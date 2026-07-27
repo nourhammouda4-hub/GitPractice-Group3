@@ -1,3 +1,7 @@
 Name: Noor Alhuda Hammoudeh
 University: University of Petra
 Role: Team Leader
+
+Name : Abd-Elrahman Alqudah
+University: Amman Arab University
+Role: Team Member

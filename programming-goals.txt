@@ -3,3 +3,10 @@ Programming Goals
 1.Learn coding basics.
 2.Practice programming every week.
 3.Write clean and organized code.
+
+====================
+Programming Goals
+1. Making the world better with my software engineering abilities
+2. Making Big Software solution company
+3. Mastering The Software Engineering Tools
+====================
