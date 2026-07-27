@@ -18,3 +18,13 @@ Programming Goals
 2. Learn backend framework development
 3. Practice continuous integration and automated testing
 ====================
+
+
+====================
+Programming Goals
+
+1. Master a core stack
+2. Write clean, maintainable code
+3. Ship real-world projects
+
+====================

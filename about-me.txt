@@ -9,3 +9,7 @@ Role: Team Member
 Name : Ahmad sa'ad
 University: Philadelphia University
 Role: Team Member
+
+Name : Yazan Alastal
+University: Philadelphia University
+Role: Team Member
