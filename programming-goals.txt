@@ -1,0 +1,5 @@
+Programming Goals
+
+1.Learn coding basics.
+2.Practice programming every week.
+3.Write clean and organized code.
