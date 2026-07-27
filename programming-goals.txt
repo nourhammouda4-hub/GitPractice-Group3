@@ -10,3 +10,11 @@ Programming Goals
 2. Making Big Software solution company
 3. Mastering The Software Engineering Tools
 ====================
+
+====================
+Programming Goals
+
+1. Master database design and SQL querying
+2. Learn backend framework development
+3. Practice continuous integration and automated testing
+====================
