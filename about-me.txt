@@ -13,3 +13,8 @@ Role: Team Member
 Name : Yazan Alastal
 University: Philadelphia University
 Role: Team Member
+
+Name: Anas Saleh
+University: Al-Zaytoonah University
+Role: Team Member
+

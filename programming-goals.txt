@@ -28,3 +28,11 @@ Programming Goals
 3. Ship real-world projects
 
 ====================
+
+====================
+
+Programming Goals :
+1. Learn Git
+2. Improve Kotlin
+3. Build Real Projects
+====================
